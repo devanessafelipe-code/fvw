@@ -1,0 +1,30 @@
+{
+  "name": "Biblioteca Digital",
+  "short_name": "Ebooks",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4a148c",
+
+  "icons": [
+    {
+      "src": "/icons/livro-aberto-capa.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+
+  "screenshots": [
+  {
+    "src": "/screenshots/desktop.png",
+    "sizes": "1600x900",
+    "type": "image/png",
+    "form_factor": "wide"
+  },
+  {
+    "src": "/screenshots/mobile.png",
+    "sizes": "377x674",
+    "type": "image/png"
+  }
+]
+}
